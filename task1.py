@@ -4,7 +4,7 @@ import cv2
 import matplotlib.pyplot as plt
 # It is a file picker used in python which allows to pick the image locally
 from tkinter import filedialog, Tk
-# 
+#lets you specify the types of elements in a tuple returned or accepted by a function.
 from typing import Tuple
 
 
